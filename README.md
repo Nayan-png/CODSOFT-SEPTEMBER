@@ -118,8 +118,8 @@ This project was completed as part of the CODSOFT Python Programming Internship.
 
 ## 👨‍💻 Author
 
-*Your Name*
-- LinkedIn: [Your LinkedIn Profile]
+*Nayan Motwani*
+- LinkedIn: https://www.linkedin.com/in/nayan-motwani-b9125a364
 - GitHub: [Your GitHub Profile]
 - Email: [Your Email]
 
