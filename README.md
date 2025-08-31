@@ -48,21 +48,7 @@ A security-focused password generation tool:
 - Multiple generation methods (random + passphrase)
 - Security recommendations
 - Ambiguous character exclusion option
-
-## 🛠 How to Run
-
-### Prerequisites
-- Python 3.6 or higher
-- No external libraries required (uses only built-in modules)
-
-### Running the Applications
-
-1. *Clone the repository:*
-   bash
-   git clone https://github.com/yourusername/CODSOFT.git
-   cd CODSOFT
-   
-
+  
 2. *Run any application:*
    bash
    # To-Do List Application
